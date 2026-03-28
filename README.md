@@ -38,7 +38,7 @@ A rule-based AI system implemented in Prolog for detecting fake news using logic
 ?- classify_news("government releases new policy", "bbc").
 % Output: real
 ```
-[file:1]
+
 
 ## Test Cases
 
