@@ -20,7 +20,9 @@ A rule-based AI system implemented in Prolog for detecting fake news using logic
 
 - SWI-Prolog (version 8.x or higher)
 - Text editor (VS Code, Notepad++)
-
+## Codes
+![Code1](CODE-1.png)
+![Cose2](CODE-2.png)
 ## Setup
 
 1. Install SWI-Prolog: [swi-prolog.org](https://www.swi-prolog.org/download/stable)
