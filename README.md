@@ -30,14 +30,8 @@ A rule-based AI system implemented in Prolog for detecting fake news using logic
 ## Usage
 
 1. Launch Prolog:
-2. Query examples:
-```prolog
-?- classify_news("shocking viral news click here", "randomblog").
-% Output: fake
-
-?- classify_news("government releases new policy", "bbc").
-% Output: real
-```
+2. Query examples:  
+![Examples](Example.png)
 
 
 ## Test Cases
