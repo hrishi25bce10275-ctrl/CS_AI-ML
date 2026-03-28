@@ -24,8 +24,7 @@ A rule-based AI system implemented in Prolog for detecting fake news using logic
 ## Setup
 
 1. Install SWI-Prolog: [swi-prolog.org](https://www.swi-prolog.org/download/stable)
-2. Clone repository:
-3. Verify `fake_news_detector.pl` is present
+2. Verify `fake_news_detector.pl` is present
 
 ## Usage
 
