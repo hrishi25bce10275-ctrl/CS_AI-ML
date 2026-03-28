@@ -6,19 +6,19 @@
 **Year**: First Year  
 **Course Code**: [To be specified]  
 
-A rule-based AI system implemented in Prolog for detecting fake news using logical inference, suspicious keywords, and source credibility checks. Classifies news as **Real**, **Fake**, or **Uncertain**.[file:1]
+A rule-based AI system implemented in Prolog for detecting fake news using logical inference, suspicious keywords, and source credibility checks. Classifies news as **Real**, **Fake**, or **Uncertain**.
 
 ## Features
 
-- Symbolic AI approach with Prolog facts and rules[file:1]
-- Analyzes news text for suspicious keywords[file:1]
-- Evaluates source credibility[file:1]
-- Transparent decision-making via logical rules[file:1]
+- Symbolic AI approach with Prolog facts and rules
+- Analyzes news text for suspicious keywords
+- Evaluates source credibility
+- Transparent decision-making via logical rules
 
 ## Prerequisites
 
-- SWI-Prolog (version 8.x or higher)[file:1]
-- Text editor (VS Code, Notepad++)[file:1]
+- SWI-Prolog (version 8.x or higher)
+- Text editor (VS Code, Notepad++)
 
 ## Setup
 
