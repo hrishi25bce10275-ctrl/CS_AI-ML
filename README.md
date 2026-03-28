@@ -1,10 +1,10 @@
 # CS_AI-ML
 # Fake News Detection System - CS_AI-ML
 
-**Author**: Hrishi Upadhyay  
+**Name**: Hrishi Upadhyay  
 **Registration No**: 25BCE10275  
 **Year**: First Year  
-**Course Code**: [To be specified]  
+**Course Code**: CSA2001
 
 A rule-based AI system implemented in Prolog for detecting fake news using logical inference, suspicious keywords, and source credibility checks. Classifies news as **Real**, **Fake**, or **Uncertain**.
 
