@@ -4,8 +4,7 @@
 **Name**: Hrishi Upadhyay  
 **Registration No**: 25BCE10275  
 **Year**: First Year  
-**Branch-** B.Tech Computer Science
-
+**Branch-** B.Tech Computer Science  
 **Course Code**: CSA2001
 
 A rule-based AI system implemented in Prolog for detecting fake news using logical inference, suspicious keywords, and source credibility checks. Classifies news as **Real**, **Fake**, or **Uncertain**.
