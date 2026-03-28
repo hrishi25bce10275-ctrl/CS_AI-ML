@@ -22,9 +22,9 @@ A rule-based AI system implemented in Prolog for detecting fake news using logic
 
 ## Setup
 
-1. Install SWI-Prolog: [swi-prolog.org](https://www.swi-prolog.org/download/stable)[file:1]
+1. Install SWI-Prolog: [swi-prolog.org](https://www.swi-prolog.org/download/stable)
 2. Clone repository:
-3. Verify `fake_news_detector.pl` is present[file:1]
+3. Verify `fake_news_detector.pl` is present
 
 ## Usage
 
@@ -43,33 +43,33 @@ A rule-based AI system implemented in Prolog for detecting fake news using logic
 
 | News Text                  | Source    | Expected Output |
 |----------------------------|-----------|-----------------|
-| shocking viral news click here | randomblog | Fake[file:1] |
-| government releases new policy | bbc     | Real[file:1] |
-| new technology launched    | unknown   | Uncertain[file:1] |
+| shocking viral news click here | randomblog | Fake |
+| government releases new policy | bbc     | Real |
+| new technology launched    | unknown   | Uncertain |
 
 ## System Rules
 
-- **Fake**: Suspicious keywords + untrusted source[file:1]
-- **Real**: Trusted source + no suspicious keywords[file:1]
-- **Uncertain**: All other cases[file:1]
+- **Fake**: Suspicious keywords + untrusted source
+- **Real**: Trusted source + no suspicious keywords
+- **Uncertain**: All other cases
 
 ## Student Information
 
 **Submitted by**: Hrishi Upadhyay  
 **Reg No**: 25BCE10275  
-**Academic Year**: First Year[file:1]
+**Academic Year**: First Year
 
 ## Limitations
 
-- Basic pattern matching (no NLP)[file:1]
-- Static knowledge base[file:1]
+- Basic pattern matching (no NLP)
+- Static knowledge base
 
 ## Future Work
 
-- ML integration[file:1]
-- Web GUI[file:1]
-- Real-time analysis[file:1]
+- ML integration
+- Web GUI
+- Real-time analysis
 
 ## References
 
-SWI-Prolog docs & AI materials[file:1]
+SWI-Prolog docs & AI materials
